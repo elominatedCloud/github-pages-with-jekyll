@@ -1,6 +1,6 @@
 ---
- 제목 : " 블로그 게시물 제목 "
- 날짜 : YYYY-MM-DD 
+title: "Your blog post title"
+date: YYYY-MM-DD
 ---
 
 title: Your awesome title
